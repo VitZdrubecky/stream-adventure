@@ -1,0 +1,18 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01 beep.js",
+  "dependencies": {
+    "concat-stream": "^1.4.8",
+    "through2": "^0.6.5",
+    "split": "^0.3.3",
+    "through2-map": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
